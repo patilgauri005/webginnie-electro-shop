@@ -1,0 +1,44 @@
+[
+  {
+    "id": "34aea768-95b0-4daf-9a86-582fae78735e",
+    "name": "Admin",
+    "email": "admin@electroshop.com",
+    "password": "$2b$10$Tf18xic.mBTDrWZZ0ymmRuCqHvTN6WtgNKz99E5/qXSzc.NgR7ArW",
+    "isAdmin": true
+  },
+  {
+    "id": "5fe5de07-b0a9-4f68-b0f2-9421545dacf7",
+    "name": "Demo",
+    "email": "demo@gmail.com",
+    "password": "$2b$10$xu74AAnUpJRLUIZf6.MkPejnxlZD.yq2G5ov8sBfNvT.PIroFPNpi",
+    "isAdmin": false,
+    "isActive": true,
+    "phone": "1234567890",
+    "address": {
+      "street": "Demo",
+      "city": "Demo",
+      "state": "Maha",
+      "pincode": "412365"
+    },
+    "shippingAddress": {
+      "address": "Demo",
+      "city": "Demo",
+      "postalCode": "123456",
+      "country": "Indian"
+    }
+  },
+  {
+    "id": "78305cf0-febd-4f50-a204-9519576825fe",
+    "name": "Amya Pardeshi",
+    "email": "amya@gmail.com",
+    "password": "$2b$10$vP3Pvpjx2VW99tRFQz2QNu4hqwTUHtLKCAxtjhr20kWT.kr0EhOHO",
+    "isAdmin": false,
+    "phone": "1234567890",
+    "shippingAddress": {
+      "address": "Gharkul",
+      "city": "Pune",
+      "postalCode": "411110",
+      "country": "India"
+    }
+  }
+]

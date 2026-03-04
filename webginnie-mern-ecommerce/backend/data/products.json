@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Demo",
+    "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._UF1000,1000_QL80_.jpg",
+    "currentPrice": 145000,
+    "originalPrice": 150000,
+    "discount": "50000",
+    "rating": 4,
+    "reviews": 150,
+    "description": "Demo",
+    "category": "Phones",
+    "inStock": true,
+    "features": [
+      "Demo"
+    ],
+    "id": "1751530999817"
+  },
+  {
+    "name": "Sony LED",
+    "image": "https://www.avitdigital.com/cdn/shop/files/01-43X80L-logo-v2_1024x1024_2x_de8aa809-103d-47c7-a87b-4faf0709cd4e_grande.jpg?v=1683793693",
+    "currentPrice": 45000,
+    "originalPrice": 85000,
+    "discount": "50",
+    "rating": 5,
+    "reviews": 142,
+    "description": "Demo",
+    "category": "Computer",
+    "inStock": true,
+    "features": [
+      "4K"
+    ],
+    "id": "1751532830321"
+  },
+  {
+    "name": "LG",
+    "image": "https://d3fppka8t5rpz7.cloudfront.net/filters:format(webp)/dev/images/01-1600-29072019-v1.jpg",
+    "currentPrice": 45000,
+    "originalPrice": 75000,
+    "discount": "-40",
+    "rating": 4,
+    "reviews": 125,
+    "description": "Demo",
+    "category": "Smartphones",
+    "inStock": true,
+    "features": [
+      "4K LED",
+      "Android One"
+    ],
+    "id": "1752229390237"
+  }
+]
