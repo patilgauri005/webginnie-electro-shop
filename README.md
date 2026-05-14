@@ -1,29 +1,59 @@
-# Web Ginnie Electro Shop Project
+# Web Ginnie Electro Shop
 
-## Getting started
+A modern and responsive eCommerce web application built for electronic products shopping.  
+The project provides a clean UI, product browsing experience, and fast performance using modern web technologies.
 
-> **Prerequisites:**
-> The following steps require [NodeJS](https://nodejs.org/en/) to be installed on your system, so please
-> install it beforehand if you haven't already.
+---
 
-To get started with your project, you'll first need to install the dependencies with:
+## 🚀 Features
 
-```
+- Responsive modern UI
+- Product listing section
+- Clean and minimal design
+- Fast loading experience
+- Mobile-friendly layout
+- Built using modern frontend technologies
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS / Tailwind CSS
+- JavaScript / TypeScript
+- React.js
+- Vite
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js installed on your system.
+
+Download Node.js from:  
+[Node.js Official Website](https://nodejs.org/en/?utm_source=chatgpt.com)
+
+---
+
+## ⚙️ Installation
+
+Install all dependencies using:
+
+```bash
 npm install
-```
 
-Then, you'll be able to run a development version of the project with:
+## ▶️ Run Development Server
 
-```
+Start the development server using:
+
+```bash
 npm run dev
 ```
 
-After a few seconds, your project should be accessible at the address
-[http://localhost:5173/](http://localhost:5173/)
+After running the command, open the project in your browser at:
 
-
-If you are satisfied with the result, you can finally build the project for release with:
-
-```
-npm run build
+```bash
+http://localhost:5173/
 ```
